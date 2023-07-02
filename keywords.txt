@@ -1,0 +1,9 @@
+IlluminatedPushButton	KEYWORD1
+
+process	KEYWORD2
+ledOn	KEYWORD2
+ledOff	KEYWORD2
+setLed	KEYWORD2
+attachPressCallback KEYWORD2
+attachReleaseCallback KEYWORD2
+isLit	KEYWORD2
