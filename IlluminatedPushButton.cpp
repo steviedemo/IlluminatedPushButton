@@ -48,7 +48,7 @@ void IlluminatedPushButton::process(void){
           if (release_callback_){
           	release_callback_();
           }
-	      press_key = false;
+	      press_key_ = false;
 	    } // end if (press_key_)
 	  } // end else (Pushbutton release)
 }
