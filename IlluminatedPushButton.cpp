@@ -1,6 +1,6 @@
 #include "IlluminatedPushButton.h"
 #define PRESS_TIME 5
-#define DEBUG
+//#define DEBUG
 #include <debug.h>
 
 
